@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"inv_remove",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"inv_remove",
+  "parent":{
+    "name":"inventario",
+    "path":"folders/Scripts/inventario.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
